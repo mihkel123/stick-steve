@@ -2,4 +2,4 @@
 
 Mängi siin: https://mihkel123.github.io/stick-steve/
 
-Siin on ainult valmis mäng (versioon cc9a100, 2026-10-19).
+Siin on ainult valmis mäng (versioon 16a6ec0, 2026-10-20).
